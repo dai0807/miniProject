@@ -15,7 +15,7 @@ import com.model2.mvc.common.Search;
 import com.model2.mvc.service.domain.User;
 import com.model2.mvc.service.user.UserService;
 
-
+//////////////////////주석을 바꿈!!! 
 /*
  *	FileName :  UserServiceTest.java
  * ㅇ JUnit4 (Test Framework) 과 Spring Framework 통합 Test( Unit Test)
